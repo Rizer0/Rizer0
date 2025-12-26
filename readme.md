@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ammar AKA Nullbyte0x</h1>
 <h3 align="center">A passionate reverse engineer & exploit developer</h3>
 
-- 🔭 I’m currently working on [NBCTF](https://nb-ctf.com)
+- 🔭 I’m currently working on [NBCTF](https://nullxbyte.com)
 
 - 🌱 I’m currently learning **Heap Exploitation & Windows internals**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C/C++, x86 Assembly, exploit development.**
 
-- 📫 How to reach me **nullbyte@nb-ctf.com**
+- 📫 How to reach me **ammarjrwork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
