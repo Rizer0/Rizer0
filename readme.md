@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammar AKA Nullbyte0x</h1>
-<h3 align="center">A passionate reverse engineer & exploit developer</h3>
+<h3 align="center">Reverse engineer & exploit developer, currently working as a Security Researcher.</h3>
 
 - 🔭 I’m currently working on [NBCTF](https://nullxbyte.com)
 
